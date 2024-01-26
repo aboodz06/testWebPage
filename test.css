@@ -5,11 +5,13 @@ div {
 
 h1 {
     color: blue;
+    font-size: 80px;
 }
 
 h2 {
     color: gray;
     border: 5px solid green;
+    font-size: 60px;
 }
 
 .titleDiv1 {
