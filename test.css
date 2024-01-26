@@ -1,0 +1,22 @@
+div {
+ display: flex;
+ justify-content: center;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: gray;
+    border: 5px solid green;
+}
+
+.titleDiv1 {
+    border: 5px solid orange;
+    margin-bottom: 15px;
+}
+
+.titleDiv2 {
+    border: 5px solid pink;
+}
